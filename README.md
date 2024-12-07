@@ -126,4 +126,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or support, feel free to contact:
 - **Email**: bakeery.wtf@gmail.com
-- **GitHub**: [your-username](https://github.com/ethic-bakeery)
+- **GitHub**: [ethic-bakeery](https://github.com/ethic-bakeery)
